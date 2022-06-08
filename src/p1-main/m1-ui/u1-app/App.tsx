@@ -11,7 +11,7 @@ function App() {
             {/*<HW3/>*/}
             {/*<HW4/>*/}
             {/*<HW5/>*/}
-
+            <p>Lorem.</p>
         </div>
     )
 }
